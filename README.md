@@ -33,11 +33,11 @@ npm install
 ```
 #### Client side:
 ```bash
-cd cd/todo-app-client
+cd ../todo-app-client
 npm install
 ```
 ### Step 3: Configure PostgreSQL
-Update the database configuration in todo-app-client/db.js with your local PostgreSQL credentials:
+Update the database configuration in `todo-app-client/db.js` with your local **PostgreSQL** credentials:
 ```javascript
 const pool = new Pool({
     host: "YOUR_HOST",
@@ -58,9 +58,10 @@ npm start
 ```
 #### Start client:
 ```bash
-cd cd/todo-app-client
+cd ../todo-app-client
 npm run dev
 ```
+---
 ## 🖥️ Technologies Used
 - Backend:
     - Node.js 🟢
@@ -70,10 +71,19 @@ npm run dev
 - Frontend:
     - ReactJS ⚛️
     - Tailwind CSS 🎨
+
+---
+
 ## 📜 **Disclaimer**
 - You must have **PostgreSQL** installed and running.
 - Create a database and two tables using the schema provided in `todo-app-server/db.sql`.
+
+---
+
 ## 🌟 Contributing
 Feel free to contribute to this project! Open an issue or submit a pull request.
+
+---
+
 ## 📄 License
 This project is open-source and available under the MIT License.
