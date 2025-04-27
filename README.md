@@ -3,7 +3,14 @@
 🌟 **A simple and elegant To-Do web application built using the PERN stack (PostgreSQL, Express, React, Node.js).** This app features user authentication and authorization using JSON Web Tokens (JWT), allowing users to register, log in, and manage their tasks securely.
 
 ---
+## 📷 **Screenshots**
+![image](https://github.com/user-attachments/assets/62664d9f-d511-49da-83fb-f6ad122c6d70)
+![image](https://github.com/user-attachments/assets/123f756a-d6d1-408c-9770-c036ffe4565d)
+![image](https://github.com/user-attachments/assets/319b8ef0-4f9e-4fdb-9f13-8fbdf703930e)
+![image](https://github.com/user-attachments/assets/3f363642-2643-4b9d-ad9d-9f9f81c38149)
+![image](https://github.com/user-attachments/assets/b4a6487b-2e33-4abc-a440-9710067c22dd)
 
+---
 ## 🚀 **Features**
 - **User Authentication**: Register and log in with JWT-based authentication.
 - **Task Management**: Add, update, and delete tasks.
